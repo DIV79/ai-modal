@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Distribution / packaging (prevents >100MB binaries from breaking git push)
+build/
+dist/
+*.egg-info/
+*.manifest
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE and temporary files
+.vscode/
+.idea/
+tempCodeRunnerFile.py
+*.tmp
+*.log
